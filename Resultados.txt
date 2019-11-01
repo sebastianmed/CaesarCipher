@@ -1,0 +1,112 @@
+Frase estándar con shift 1: [190, 42, 121, 84, 265, 19, 22, 4, 174, 5, 6, 102, 50, 140, 139, 49, 33, 107, 127, 78, 58, 24, 3, 14, 11, 26]
+Chi cuadrada: 630.6981615276021
+
+
+Frase estándar con shift 2: [26, 190, 42, 121, 84, 265, 19, 22, 4, 174, 5, 6, 102, 50, 140, 139, 49, 33, 107, 127, 78, 58, 24, 11, 3, 14]
+Chi cuadrada: 879.6507048176474
+
+
+Frase estándar con shift 3: [14, 26, 190, 42, 121, 84, 265, 19, 22, 4, 174, 5, 6, 102, 50, 140, 139, 49, 33, 107, 127, 78, 58, 3, 24, 11]
+Chi cuadrada: 1332.6429064127285
+
+
+Frase estándar con shift 4: [11, 14, 26, 190, 42, 121, 84, 265, 19, 22, 4, 174, 5, 6, 102, 50, 140, 139, 49, 33, 107, 127, 78, 24, 58, 3]
+Chi cuadrada: 2183.470223890129
+
+
+Frase estándar con shift 5: [3, 11, 14, 26, 190, 42, 121, 84, 265, 19, 22, 4, 174, 5, 6, 102, 50, 140, 139, 49, 33, 107, 127, 58, 78, 24]
+Chi cuadrada: 1730.7429068793442
+
+
+Frase estándar con shift 6: [24, 3, 11, 14, 26, 190, 42, 121, 84, 265, 19, 22, 4, 174, 5, 6, 102, 50, 140, 139, 49, 33, 107, 78, 127, 58]
+Chi cuadrada: 2088.148325904673
+
+
+Frase estándar con shift 7: [58, 24, 3, 11, 14, 26, 190, 42, 121, 84, 265, 19, 22, 4, 174, 5, 6, 102, 50, 140, 139, 49, 33, 127, 107, 78]
+Chi cuadrada: 2060.9971479260407
+
+
+Frase estándar con shift 8: [78, 58, 24, 3, 11, 14, 26, 190, 42, 121, 84, 265, 19, 22, 4, 174, 5, 6, 102, 50, 140, 139, 49, 107, 33, 127]
+Chi cuadrada: 2899.4194794659725
+
+
+Frase estándar con shift 9: [127, 78, 58, 24, 3, 11, 14, 26, 190, 42, 121, 84, 265, 19, 22, 4, 174, 5, 6, 102, 50, 140, 139, 33, 49, 107]
+Chi cuadrada: 933.2544813985171
+
+
+Frase estándar con shift 10: [107, 127, 78, 58, 24, 3, 11, 14, 26, 190, 42, 121, 84, 265, 19, 22, 4, 174, 5, 6, 102, 50, 140, 49, 139, 33]
+Chi cuadrada: 2438.672033772982
+
+
+Frase estándar con shift 11: [33, 107, 127, 78, 58, 24, 3, 11, 14, 26, 190, 42, 121, 84, 265, 19, 22, 4, 174, 5, 6, 102, 50, 139, 140, 49]
+Chi cuadrada: 2004.7969418084358
+
+
+Frase estándar con shift 12: [49, 33, 107, 127, 78, 58, 24, 3, 11, 14, 26, 190, 42, 121, 84, 265, 19, 22, 4, 174, 5, 6, 102, 140, 50, 139]
+Chi cuadrada: 1904.2077523732996
+
+
+Frase estándar con shift 13: [139, 49, 33, 107, 127, 78, 58, 24, 3, 11, 14, 26, 190, 42, 121, 84, 265, 19, 22, 4, 174, 5, 6, 50, 102, 140]
+Chi cuadrada: 30.124026245345767
+
+
+Frase estándar con shift 14: [140, 139, 49, 33, 107, 127, 78, 58, 24, 3, 11, 14, 26, 190, 42, 121, 84, 265, 19, 22, 4, 174, 5, 102, 6, 50]
+Chi cuadrada: 2156.7857704845665
+
+
+Frase estándar con shift 15: [50, 140, 139, 49, 33, 107, 127, 78, 58, 24, 3, 11, 14, 26, 190, 42, 121, 84, 265, 19, 22, 4, 174, 6, 5, 102]
+Chi cuadrada: 937.7725616344829
+
+
+Frase estándar con shift 16: [102, 50, 140, 139, 49, 33, 107, 127, 78, 58, 24, 3, 11, 14, 26, 190, 42, 121, 84, 265, 19, 22, 4, 5, 174, 6]
+Chi cuadrada: 1438.9783634137843
+
+
+Frase estándar con shift 17: [6, 102, 50, 140, 139, 49, 33, 107, 127, 78, 58, 24, 3, 11, 14, 26, 190, 42, 121, 84, 265, 19, 22, 174, 4, 5]
+Chi cuadrada: 2781.43722037152
+
+
+Frase estándar con shift 18: [5, 6, 102, 50, 140, 139, 49, 33, 107, 127, 78, 58, 24, 3, 11, 14, 26, 190, 42, 121, 84, 265, 19, 4, 22, 174]
+Chi cuadrada: 1451.5227459938174
+
+
+Frase estándar con shift 19: [174, 5, 6, 102, 50, 140, 139, 49, 33, 107, 127, 78, 58, 24, 3, 11, 14, 26, 190, 42, 121, 84, 265, 22, 19, 4]
+Chi cuadrada: 2021.8518071693243
+
+
+Frase estándar con shift 20: [4, 174, 5, 6, 102, 50, 140, 139, 49, 33, 107, 127, 78, 58, 24, 3, 11, 14, 26, 190, 42, 121, 84, 19, 265, 22]
+Chi cuadrada: 2661.1133704451104
+
+
+Frase estándar con shift 21: [22, 4, 174, 5, 6, 102, 50, 140, 139, 49, 33, 107, 127, 78, 58, 24, 3, 11, 14, 26, 190, 42, 121, 265, 84, 19]
+Chi cuadrada: 3521.930023395849
+
+
+Frase estándar con shift 22: [19, 22, 4, 174, 5, 6, 102, 50, 140, 139, 49, 33, 107, 127, 78, 58, 24, 3, 11, 14, 26, 190, 42, 84, 121, 265]
+Chi cuadrada: 858.1370631296521
+
+
+Frase estándar con shift 23: [265, 19, 22, 4, 174, 5, 6, 102, 50, 140, 139, 49, 33, 107, 127, 78, 58, 24, 3, 11, 14, 26, 190, 121, 42, 84]
+Chi cuadrada: 1493.4045489890775
+
+
+Frase estándar con shift 24: [84, 265, 19, 22, 4, 174, 5, 6, 102, 50, 140, 139, 49, 33, 107, 127, 78, 58, 24, 3, 11, 14, 26, 42, 190, 121]
+Chi cuadrada: 1138.7732655124305
+
+
+Frase estándar con shift 25: [121, 84, 265, 19, 22, 4, 174, 5, 6, 102, 50, 140, 139, 49, 33, 107, 127, 78, 58, 24, 3, 11, 14, 190, 26, 42]
+Chi cuadrada: 2604.642355331324
+
+
+Frase estándar con shift 26: [42, 121, 84, 265, 19, 22, 4, 174, 5, 6, 102, 50, 140, 139, 49, 33, 107, 127, 78, 58, 24, 3, 11, 26, 14, 190]
+Chi cuadrada: 748.7465770408618
+
+
+Mensaje encriptado: Qx Ruzmzouqda qe gz pumdua yqjuomza pq oudogxmouaz zmouazmx qebqoumxulmpa qz qoazayum, ruzmzlme, zqsaouae k baxufuom cgq eq uybduyq qz xm Ougpmp pq Yqjuoa, bdabuqpmp pq Sdgba Ygxfuyqpum Xmgymz. Eg bdqeupqzfq k pudqofad sqzqdmx qe Ymzgqx Mddaka Dapdusgql k qx pudqofad qpufadumx qe Qzducgq Cguzfmzm.
+
+Los resultados fueron: 
+Chi cuadrada más pequeña:  30.124026245345767
+Ubicado en el index: 13
+
+Mensaje descifrado: El Financiero es un diario mexicano de circulacion nacional especializado en economia, finanzas, negocios y politica que se imprime en la Ciudad de Mexico, propiedad de Grupo Multimedia Lauman. Su presidente y director general es Manuel Arroyo Rodriguez y el director editorial es Enrique Quintana.
+
